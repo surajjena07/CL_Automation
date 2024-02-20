@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>CLProject</groupId>
+  <artifactId>ChristianLouboutinFramework</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+
+  <name>ChristianLouboutinFramework</name>
+  <!-- FIXME change it to the project's website -->
+  <url>http://www.example.com</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>1.7</maven.compiler.source>
+    <maven.compiler.target>1.7</maven.compiler.target>
+  </properties>
+
+  <dependencies>
+	  <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.11</version>
+      <scope>test</scope>
+    </dependency>
+    
+    <dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>6.8</version>
+    <scope>test</scope>
+    </dependency>
+    
+    <dependency>
+    <groupId>log4j</groupId>
+    <artifactId>log4j</artifactId>
+    <version>1.2.17</version>
+    </dependency>
+    
+    <dependency>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-core</artifactId>
+        <version>2.14.1</version>
+    </dependency>
+    
+    <dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-jdk14</artifactId>
+    <version>2.0.0-alpha0</version>
+    <scope>runtime</scope>
+    </dependency>  
+    
+    <dependency>
+    <groupId>com.codoid.products</groupId>
+    <artifactId>fillo</artifactId>
+    <version>1.18</version>
+    </dependency>
+    
+    <dependency>
+    <groupId>com.browserstack</groupId>
+    <artifactId>browserstack-local-java</artifactId>
+    <version>1.0.6</version>
+    </dependency>
+    
+    <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>3.141.59</version>
+   </dependency>
+   
+    <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-server</artifactId>
+    <version>3.141.59</version>
+   </dependency>
+   
+   <dependency>
+        <groupId>org.seleniumhq.selenium</groupId>
+        <artifactId>selenium-api</artifactId>
+        <version>3.141.59</version>
+   </dependency>
+
+    <dependency>
+    <groupId>io.appium</groupId>
+    <artifactId>java-client</artifactId>
+    <version>3.4.1</version>
+    </dependency>
+    
+    <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
+	<dependency>
+    <groupId>com.aventstack</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>5.1.1</version>
+    </dependency>
+   
+   <dependency>
+    <groupId>com.sun.mail</groupId>
+    <artifactId>javax.mail</artifactId>
+    <version>1.6.2</version>
+   </dependency> 
+    
+   <dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-lang3</artifactId>
+    <version>3.0</version>
+   </dependency>
+
+    <dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>31.0.1-jre</version>
+    </dependency>
+    
+    <dependency>
+    <groupId>org.projectlombok</groupId>
+    <artifactId>lombok</artifactId>
+    <version>1.18.24</version>
+    <scope>provided</scope>
+   </dependency>
+   
+  </dependencies>
+
+  <build>
+    <plugins>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.7.0</version>
+        </plugin>
+        <plugin>
+            <artifactId>maven-resources-plugin</artifactId>
+            <version>2.7</version>
+        </plugin>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-surefire-plugin</artifactId>
+            <version>2.21.0</version>
+            <configuration>
+				<useSystemClassLoader>false</useSystemClassLoader>
+                <suiteXmlFiles>
+					<!--  Setting up Staging EU1 environment name for script execution            
+                    <suiteXmlFile>testSuites\front\StagingEnv1\TestSuite_scenarios.xml</suiteXmlFile>      -->  
+                     
+                    <!-- Setting up Homo EU1 environment name for script execution                -->  
+                    <suiteXmlFile>testSuites\front\HomoEnv1\TestSuite_scenarios.xml</suiteXmlFile>      
+                    
+                    <!-- Setting up Staging EU environment name for script execution 
+                    <suiteXmlFile>testSuites\front\StagingEnv\TestSuite_scenarios.xml</suiteXmlFile>  -->
+                    
+                    <!--  Setting up Homo EU environment name for script execution 
+                    <suiteXmlFile>testSuites\front\HomoEnv\TestSuite_scenarios.xml</suiteXmlFile> -->
+                    
+                     <!--  Setting up Integration EU environment name for script execution 
+                    <suiteXmlFile>testSuites\front\IntegrationEnv\TestSuite_scenarios.xml</suiteXmlFile>  -->
+                    
+                    <!--  Setting up Integration EU6 environment name for script execution 
+                    <suiteXmlFile>testSuites\front\Integration6Env\TestSuite_scenarios.xml</suiteXmlFile> -->
+                    
+                </suiteXmlFiles>  
+            </configuration>
+        </plugin>
+    </plugins>
+</build>
+</project>

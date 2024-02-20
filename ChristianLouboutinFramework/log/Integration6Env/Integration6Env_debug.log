@@ -1,0 +1,7 @@
+2023-03-28 11:24:37 INFO  BaseTest:77 - *****************************TC_Scenario_06
+2023-03-28 11:24:37 INFO  BaseTest:78 - Test case->TC_Scenario_06
+2023-03-28 11:24:37 INFO  BaseTest:82 - Locale->FR_FR
+2023-03-28 11:24:37 INFO  BaseTest:86 - browserStack->NO
+2023-03-28 11:24:37 INFO  BaseTest:101 - Browser Version->76
+2023-03-28 11:24:37 INFO  BaseTest:106 - Driver->CHROME
+2023-03-28 11:24:37 INFO  BaseTest:110 - Test dataSet_Config->USERINFO_DS-V6,ADDRESS_DS-V4,BILLINGADDRESS_DS-V1,PAYMENT_DS-V3,BO_DS-V6,WMS_DS-V6,ADYEN_DS-V2,YAHOO_DS-V6

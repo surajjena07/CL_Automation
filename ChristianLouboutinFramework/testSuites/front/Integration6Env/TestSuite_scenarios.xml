@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><suite name="CL-Automation ON:SCENARIOS" parallel="tests" thread-count="10">
+  <listeners class-name="org.uncommons.reportng.HTMLReporter"/>
+  <test name="TC-06_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC-06"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="USERINFO_DS-V6,ADDRESS_DS-V4,BILLINGADDRESS_DS-V1,PAYMENT_DS-V3,BO_DS-V6,WMS_DS-V6,ADYEN_DS-V2,YAHOO_DS-V6"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario_06"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://intg-eu-6.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="76"/>
+    <parameter name="TESTCASENAME" value="TC-06_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="Integration6Env"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Scenario_06"/>
+    </classes>
+  </test>
+</suite>

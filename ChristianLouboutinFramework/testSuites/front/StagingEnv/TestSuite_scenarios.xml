@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suite name="CL-Automation ON:SCENARIOS" parallel="tests" thread-count="14">
+  <listeners class-name="org.uncommons.reportng.HTMLReporter"/>
+  <test name="TC-01_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC-01"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="USERINFO_DS-V1,PAYMENT_DS-V1,BO_DS-V1,WMS_DS-V1,ADYEN_DS-V1"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario_01"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://staging-eu.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="107"/>
+    <parameter name="TESTCASENAME" value="TC-01_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="StagingEnv"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Scenario_01"/>
+    </classes>
+  </test>
+  <test name="TC-02_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC-02"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="USERINFO_DS-V2,ADDRESS_DS-V4,ADYEN_DS-V1,PAYMENT_DS-V2,BO_DS-V2,WMS_DS-V2"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario_02"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://staging-eu.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="107"/>
+    <parameter name="TESTCASENAME" value="TC-02_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="StagingEnv"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Scenario_02"/>
+    </classes>
+  </test>
+  <test name="TC-03_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC-03"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="USERINFO_DS-V3,PAYMENT_DS-V1,ADDRESS_DS-V4,BILLINGADDRESS_DS-V1,BO_DS-V3,WMS_DS-V3,ADYEN_DS-V1"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario_03"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://staging-eu.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="107"/>
+    <parameter name="TESTCASENAME" value="TC-03_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="StagingEnv"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Scenario_03"/>
+    </classes>
+  </test>
+  <test name="TC-04_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC-04"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="USERINFO_DS-V4,ADDRESS_DS-V4,PAYPALPAYMENT_DS-V1,BO_DS-V4,WMS_DS-V4,ADYEN_DS-V1"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario_04"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://staging-eu.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="107"/>
+    <parameter name="TESTCASENAME" value="TC-04_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="StagingEnv"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Scenario_04"/>
+    </classes>
+  </test>
+  <test name="TC-05_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC-05"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="USERINFO_DS-V5,PAYMENT_DS-V1,ADDRESS_DS-V5,BO_DS-V5,WMS_DS-V5"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario_05"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://staging-eu.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="107"/>
+    <parameter name="TESTCASENAME" value="TC-05_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="StagingEnv"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Scenario_05"/>
+    </classes>
+  </test>
+  <test name="TC-06_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC-06"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="USERINFO_DS-V6,ADDRESS_DS-V4,BILLINGADDRESS_DS-V1,PAYMENT_DS-V3,BO_DS-V6,WMS_DS-V6,ADYEN_DS-V1"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario_06"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://staging-eu.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="107"/>
+    <parameter name="TESTCASENAME" value="TC-06_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="StagingEnv"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Scenario_06"/>
+    </classes>
+  </test>
+  <test name="TC-07_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC-07"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="USERINFO_DS-V7,ADDRESS_DS-V4,ADYEN_DS-V1,PAYPALPAYMENT_DS-V1,BO_DS-V7,WMS_DS-V7"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario_07"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://staging-eu.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="107"/>
+    <parameter name="TESTCASENAME" value="TC-07_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="StagingEnv"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Scenario_07"/>
+    </classes>
+  </test>
+  <test name="TC-08_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC-08"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="USERINFO_DS-V8,BILLINGADDRESS_DS-V2,ADDRESS_DS-V4,PAYMENT_DS-V2,BO_DS-V8,WMS_DS-V8,ADYEN_DS-V1"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario_08"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://staging-eu.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="107"/>
+    <parameter name="TESTCASENAME" value="TC-08_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="StagingEnv"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Scenario_08"/>
+    </classes>
+  </test>
+  <test name="TC-09_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC-09"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="USERINFO_DS-V9,PAYMENT_DS-V2,ADDRESS_DS-V4,BO_DS-V9,WMS_DS-V9"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario_09"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://staging-eu.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="107"/>
+    <parameter name="TESTCASENAME" value="TC-09_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="StagingEnv"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Scenario_09"/>
+    </classes>
+  </test>
+  <test name="TC-10_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC-10"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="USERINFO_DS-V10,ADDRESS_DS-V5,PAYMENT_DS-V1,BO_DS-V10,WMS_DS-V10,ADYEN_DS-V1"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario_10"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://staging-eu.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="107"/>
+    <parameter name="TESTCASENAME" value="TC-10_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="StagingEnv"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Scenario_10"/>
+    </classes>
+  </test>
+  <test name="TC1_PHASE2_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC1_PHASE2"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="PIM_DS-V1,BO_DS-V21,WMS_DS-V1"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario1_Phase2"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://staging-eu.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="76"/>
+    <parameter name="TESTCASENAME" value="TC1_PHASE2_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="StagingEnv"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Scenario1_Phase2"/>
+    </classes>
+  </test>
+  <test name="TC2_PHASE2_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC2_PHASE2"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="PIM_DS-V1,BO_DS-V22,WMS_DS-V2"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario2_Phase2"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://staging-eu.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="76"/>
+    <parameter name="TESTCASENAME" value="TC2_PHASE2_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="StagingEnv"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Scenario2_Phase2"/>
+    </classes>
+  </test>
+  <test name="TC3_PHASE2_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC3_PHASE2"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="PIM_DS-V1,BO_DS-V23,WMS_DS-V3"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario3_Phase2"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://staging-eu.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="76"/>
+    <parameter name="TESTCASENAME" value="TC3_PHASE2_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="StagingEnv"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Scenario3_Phase2"/>
+    </classes>
+  </test>
+  <test name="TC4_PHASE2_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC4_PHASE2"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="PIM_DS-V1,BO_DS-V24,WMS_DS-V4"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario4_Phase2"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://staging-eu.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="76"/>
+    <parameter name="TESTCASENAME" value="TC4_PHASE2_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="StagingEnv"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Scenario4_Phase2"/>
+    </classes>
+  </test>
+</suite>

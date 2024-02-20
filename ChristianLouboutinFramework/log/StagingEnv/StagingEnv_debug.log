@@ -1,0 +1,98 @@
+2023-04-28 11:58:53 INFO  BaseTest:77 - *****************************TC_Scenario_09
+2023-04-28 11:58:53 INFO  BaseTest:77 - *****************************TC_Scenario3_Phase2
+2023-04-28 11:58:53 INFO  BaseTest:78 - Test case->TC_Scenario3_Phase2
+2023-04-28 11:58:53 INFO  BaseTest:77 - *****************************TC_Scenario_10
+2023-04-28 11:58:53 INFO  BaseTest:78 - Test case->TC_Scenario_10
+2023-04-28 11:58:53 INFO  BaseTest:82 - Locale->FR_FR
+2023-04-28 11:58:53 INFO  BaseTest:77 - *****************************TC_Scenario1_Phase2
+2023-04-28 11:58:53 INFO  BaseTest:78 - Test case->TC_Scenario1_Phase2
+2023-04-28 11:58:53 INFO  BaseTest:82 - Locale->FR_FR
+2023-04-28 11:58:53 INFO  BaseTest:86 - browserStack->NO
+2023-04-28 11:58:53 INFO  BaseTest:77 - *****************************TC_Scenario2_Phase2
+2023-04-28 11:58:53 INFO  BaseTest:78 - Test case->TC_Scenario2_Phase2
+2023-04-28 11:58:53 INFO  BaseTest:82 - Locale->FR_FR
+2023-04-28 11:58:53 INFO  BaseTest:86 - browserStack->NO
+2023-04-28 11:58:53 INFO  BaseTest:101 - Browser Version->76
+2023-04-28 11:58:53 INFO  BaseTest:77 - *****************************TC_Scenario_08
+2023-04-28 11:58:53 INFO  BaseTest:78 - Test case->TC_Scenario_08
+2023-04-28 11:58:53 INFO  BaseTest:82 - Locale->FR_FR
+2023-04-28 11:58:53 INFO  BaseTest:77 - *****************************TC_Scenario4_Phase2
+2023-04-28 11:58:53 INFO  BaseTest:78 - Test case->TC_Scenario4_Phase2
+2023-04-28 11:58:53 INFO  BaseTest:82 - Locale->FR_FR
+2023-04-28 11:58:53 INFO  BaseTest:86 - browserStack->NO
+2023-04-28 11:58:53 INFO  BaseTest:101 - Browser Version->76
+2023-04-28 11:58:53 INFO  BaseTest:77 - *****************************TC_Scenario_01
+2023-04-28 11:58:53 INFO  BaseTest:78 - Test case->TC_Scenario_01
+2023-04-28 11:58:53 INFO  BaseTest:82 - Locale->FR_FR
+2023-04-28 11:58:53 INFO  BaseTest:86 - browserStack->NO
+2023-04-28 11:58:53 INFO  BaseTest:101 - Browser Version->107
+2023-04-28 11:58:53 INFO  BaseTest:106 - Driver->CHROME
+2023-04-28 11:58:53 INFO  BaseTest:106 - Driver->CHROME
+2023-04-28 11:58:53 INFO  BaseTest:77 - *****************************TC_Scenario_06
+2023-04-28 11:58:53 INFO  BaseTest:78 - Test case->TC_Scenario_06
+2023-04-28 11:58:53 INFO  BaseTest:82 - Locale->FR_FR
+2023-04-28 11:58:53 INFO  BaseTest:86 - browserStack->NO
+2023-04-28 11:58:53 INFO  BaseTest:101 - Browser Version->107
+2023-04-28 11:58:53 INFO  BaseTest:77 - *****************************TC_Scenario_04
+2023-04-28 11:58:53 INFO  BaseTest:77 - *****************************TC_Scenario_07
+2023-04-28 11:58:53 INFO  BaseTest:77 - *****************************TC_Scenario_03
+2023-04-28 11:58:53 INFO  BaseTest:77 - *****************************TC_Scenario_02
+2023-04-28 11:58:53 INFO  BaseTest:78 - Test case->TC_Scenario_02
+2023-04-28 11:58:53 INFO  BaseTest:82 - Locale->FR_FR
+2023-04-28 11:58:53 INFO  BaseTest:86 - browserStack->NO
+2023-04-28 11:58:53 INFO  BaseTest:101 - Browser Version->107
+2023-04-28 11:58:53 INFO  BaseTest:106 - Driver->CHROME
+2023-04-28 11:58:53 INFO  BaseTest:110 - Test dataSet_Config->USERINFO_DS-V2,ADDRESS_DS-V4,ADYEN_DS-V1,PAYMENT_DS-V2,BO_DS-V2,WMS_DS-V2
+2023-04-28 11:58:53 INFO  BaseTest:77 - *****************************TC_Scenario_05
+2023-04-28 11:58:53 INFO  BaseTest:86 - browserStack->NO
+2023-04-28 11:58:53 INFO  BaseTest:106 - Driver->CHROME
+2023-04-28 11:58:53 INFO  BaseTest:110 - Test dataSet_Config->PIM_DS-V1,BO_DS-V22,WMS_DS-V2
+2023-04-28 11:58:53 INFO  BaseTest:101 - Browser Version->76
+2023-04-28 11:58:53 INFO  BaseTest:106 - Driver->CHROME
+2023-04-28 11:58:53 INFO  BaseTest:86 - browserStack->NO
+2023-04-28 11:58:53 INFO  BaseTest:101 - Browser Version->107
+2023-04-28 11:58:53 INFO  BaseTest:82 - Locale->FR_FR
+2023-04-28 11:58:53 INFO  BaseTest:86 - browserStack->NO
+2023-04-28 11:58:53 INFO  BaseTest:78 - Test case->TC_Scenario_09
+2023-04-28 11:58:53 INFO  BaseTest:101 - Browser Version->76
+2023-04-28 11:58:53 INFO  BaseTest:106 - Driver->CHROME
+2023-04-28 11:58:53 INFO  BaseTest:110 - Test dataSet_Config->PIM_DS-V1,BO_DS-V23,WMS_DS-V3
+2023-04-28 11:58:53 INFO  BaseTest:106 - Driver->CHROME
+2023-04-28 11:58:53 INFO  BaseTest:110 - Test dataSet_Config->PIM_DS-V1,BO_DS-V21,WMS_DS-V1
+2023-04-28 11:58:53 INFO  BaseTest:101 - Browser Version->107
+2023-04-28 11:58:53 INFO  BaseTest:78 - Test case->TC_Scenario_05
+2023-04-28 11:58:53 INFO  BaseTest:78 - Test case->TC_Scenario_03
+2023-04-28 11:58:53 INFO  BaseTest:78 - Test case->TC_Scenario_07
+2023-04-28 11:58:53 INFO  BaseTest:78 - Test case->TC_Scenario_04
+2023-04-28 11:58:53 INFO  BaseTest:106 - Driver->CHROME
+2023-04-28 11:58:53 INFO  BaseTest:110 - Test dataSet_Config->PIM_DS-V1,BO_DS-V24,WMS_DS-V4
+2023-04-28 11:58:53 INFO  BaseTest:110 - Test dataSet_Config->USERINFO_DS-V1,PAYMENT_DS-V1,BO_DS-V1,WMS_DS-V1,ADYEN_DS-V1
+2023-04-28 11:58:53 INFO  BaseTest:110 - Test dataSet_Config->USERINFO_DS-V6,ADDRESS_DS-V4,BILLINGADDRESS_DS-V1,PAYMENT_DS-V3,BO_DS-V6,WMS_DS-V6,ADYEN_DS-V1
+2023-04-28 11:58:53 INFO  BaseTest:82 - Locale->FR_FR
+2023-04-28 11:58:53 INFO  BaseTest:82 - Locale->FR_FR
+2023-04-28 11:58:53 INFO  BaseTest:82 - Locale->FR_FR
+2023-04-28 11:58:53 INFO  BaseTest:82 - Locale->FR_FR
+2023-04-28 11:58:53 INFO  BaseTest:106 - Driver->CHROME
+2023-04-28 11:58:53 INFO  BaseTest:110 - Test dataSet_Config->USERINFO_DS-V10,ADDRESS_DS-V5,PAYMENT_DS-V1,BO_DS-V10,WMS_DS-V10,ADYEN_DS-V1
+2023-04-28 11:58:53 INFO  BaseTest:82 - Locale->FR_FR
+2023-04-28 11:58:53 INFO  BaseTest:86 - browserStack->NO
+2023-04-28 11:58:53 INFO  BaseTest:101 - Browser Version->107
+2023-04-28 11:58:53 INFO  BaseTest:110 - Test dataSet_Config->USERINFO_DS-V8,BILLINGADDRESS_DS-V2,ADDRESS_DS-V4,PAYMENT_DS-V2,BO_DS-V8,WMS_DS-V8,ADYEN_DS-V1
+2023-04-28 11:58:53 INFO  BaseTest:86 - browserStack->NO
+2023-04-28 11:58:53 INFO  BaseTest:86 - browserStack->NO
+2023-04-28 11:58:53 INFO  BaseTest:86 - browserStack->NO
+2023-04-28 11:58:53 INFO  BaseTest:86 - browserStack->NO
+2023-04-28 11:58:53 INFO  BaseTest:101 - Browser Version->107
+2023-04-28 11:58:53 INFO  BaseTest:101 - Browser Version->107
+2023-04-28 11:58:53 INFO  BaseTest:101 - Browser Version->107
+2023-04-28 11:58:53 INFO  BaseTest:106 - Driver->CHROME
+2023-04-28 11:58:53 INFO  BaseTest:106 - Driver->CHROME
+2023-04-28 11:58:53 INFO  BaseTest:106 - Driver->CHROME
+2023-04-28 11:58:53 INFO  BaseTest:106 - Driver->CHROME
+2023-04-28 11:58:53 INFO  BaseTest:101 - Browser Version->107
+2023-04-28 11:58:53 INFO  BaseTest:110 - Test dataSet_Config->USERINFO_DS-V7,ADDRESS_DS-V4,ADYEN_DS-V1,PAYPALPAYMENT_DS-V1,BO_DS-V7,WMS_DS-V7
+2023-04-28 11:58:53 INFO  BaseTest:110 - Test dataSet_Config->USERINFO_DS-V3,PAYMENT_DS-V1,ADDRESS_DS-V4,BILLINGADDRESS_DS-V1,BO_DS-V3,WMS_DS-V3,ADYEN_DS-V1
+2023-04-28 11:58:53 INFO  BaseTest:110 - Test dataSet_Config->USERINFO_DS-V5,PAYMENT_DS-V1,ADDRESS_DS-V5,BO_DS-V5,WMS_DS-V5
+2023-04-28 11:58:53 INFO  BaseTest:110 - Test dataSet_Config->USERINFO_DS-V9,PAYMENT_DS-V2,ADDRESS_DS-V4,BO_DS-V9,WMS_DS-V9
+2023-04-28 11:58:53 INFO  BaseTest:106 - Driver->CHROME
+2023-04-28 11:58:53 INFO  BaseTest:110 - Test dataSet_Config->USERINFO_DS-V4,ADDRESS_DS-V4,PAYPALPAYMENT_DS-V1,BO_DS-V4,WMS_DS-V4,ADYEN_DS-V1

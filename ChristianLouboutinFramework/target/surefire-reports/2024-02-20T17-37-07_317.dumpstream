@@ -1,0 +1,15 @@
+# Created on 2024-02-20T17:37:07.320
+WARNING: An illegal reflective access operation has occurred
+
+# Created on 2024-02-20T17:37:07.322
+WARNING: Illegal reflective access by org.apache.poi.openxml4j.util.ZipSecureFile$1 (file:/C:/Users/Suraj.Jena/.m2/repository/com/codoid/products/fillo/1.18/fillo-1.18.jar) to field java.io.FilterInputStream.in
+
+# Created on 2024-02-20T17:37:07.323
+WARNING: Please consider reporting this to the maintainers of org.apache.poi.openxml4j.util.ZipSecureFile$1
+
+# Created on 2024-02-20T17:37:07.324
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created on 2024-02-20T17:37:07.326
+WARNING: All illegal access operations will be denied in a future release
+

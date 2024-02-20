@@ -1,0 +1,122 @@
+2024-02-19 10:34:56 INFO  BaseTest:140 - *****************************TC_Scenario_01
+2024-02-19 10:34:56 INFO  BaseTest:141 - Test case->TC_Scenario_01
+2024-02-19 10:34:56 INFO  BaseTest:145 - Locale->UK_EN
+2024-02-19 10:34:56 INFO  BaseTest:149 - browserStack->NO
+2024-02-19 10:34:56 INFO  BaseTest:164 - Browser Version->14
+2024-02-19 10:34:56 INFO  BaseTest:169 - Driver->CHROME
+2024-02-19 10:34:56 INFO  BaseTest:173 - Test dataSet_Config->USERINFO_DS-V11,PAYMENT_DS-V1,BO_DS-V1,WMS_DS-V11,ADYEN_DS-V1
+2024-02-19 10:35:06 INFO  BaseTest:215 - BaseURL->https://staging-eu-1.christianlouboutin.com/uk_en/
+2024-02-19 10:35:06 INFO  BaseTest:219 - Breakpoint->L
+2024-02-19 10:35:06 INFO  BaseTest:220 - *****************************
+2024-02-19 10:35:06 INFO  BaseTest:241 - Before InitializeDriver
+2024-02-19 10:35:06 INFO  CustomFun:1271 - 19/02/2024
+2024-02-19 10:35:06 INFO  CustomFun:1282 - --CI Value--false 
+2024-02-19 10:35:08 INFO  BaseTest:243 - After InitializeDriver
+2024-02-19 10:35:08 INFO  BaseTest:279 - Window size ---(1936, 1176)
+2024-02-19 10:35:30 INFO  GUIFunctions:427 - Successfully clicked on element: Click on AcceptAll_Cookies button
+2024-02-19 10:35:31 INFO  TC_Scenario_01:73 - Successfully navigated to application URL 
+
+2024-02-19 10:35:32 INFO  HomePage:206 - Successfully verified  CL_logo
+2024-02-19 10:35:32 INFO  TC_Scenario_01:84 - Successfully Verified Homepage Logo  
+
+2024-02-19 10:36:18 INFO  HomePage:1219 - Successfully verified Pictures
+2024-02-19 10:36:18 INFO  HomePage:1236 - Successfully verified News & The Essentials of Product Widgets
+2024-02-19 10:36:20 INFO  HomePage:252 - Successfully  Verified HeaderNavigation_LatestCollection text  
+
+2024-02-19 10:36:20 INFO  HomePage:258 - Successfully  Verified HeaderNavigation_Ladies text   
+
+2024-02-19 10:36:20 INFO  HomePage:264 - Successfully  Verified HeaderNavigation_Gentleman text   
+
+2024-02-19 10:36:20 INFO  HomePage:270 - Successfully Verified HeaderNavigation_Beauty
+2024-02-19 10:36:20 INFO  HomePage:276 - Successfully Verified HeaderNavigation_GiftGuide text
+2024-02-19 10:36:20 INFO  HomePage:282 - Successfully  Verified HeaderNavigation_Louboutinworld text
+2024-02-19 10:36:20 INFO  TC_Scenario_01:115 - Successfully Verified Main Header Navigation text 
+
+2024-02-19 10:36:20 INFO  HomePage:298 - Successfully verified  search icon
+2024-02-19 10:36:20 INFO  HomePage:305 - Successfully verified  MyAccount icon
+2024-02-19 10:36:20 INFO  HomePage:312 - Successfully verified  cart icon
+2024-02-19 10:36:20 INFO  TC_Scenario_01:123 - Successfully Verified Header Right icons 
+
+2024-02-19 10:36:20 INFO  HomePage:949 - Successfully  Verified HP_VisitABoutique_txt in Mycart Modal  
+
+2024-02-19 10:36:20 INFO  HomePage:955 - Successfully  Verified HP_SOS_txt in Mycart Modal  
+
+2024-02-19 10:36:20 INFO  HomePage:961 - Successfully  Verified HP_Get_In_touch_txt in Mycart Modal  
+
+2024-02-19 10:36:20 INFO  HomePage:966 - Successfully  Verified HP_Legal_blah_blah_txt in Mycart Modal  
+
+2024-02-19 10:36:20 INFO  TC_Scenario_01:131 - Successfully Verified Footer Header text 
+
+2024-02-19 10:36:20 INFO  HomePage:983 - Successfully verified  FindA_Boutique_Link
+2024-02-19 10:36:20 INFO  HomePage:990 - Successfully verified  Book_Appointment link
+2024-02-19 10:36:20 INFO  HomePage:997 - Successfully verified  ProductCare link
+2024-02-19 10:36:20 INFO  HomePage:1003 - Successfully verified  FAQ link
+2024-02-19 10:36:20 INFO  HomePage:1010 - Successfully verified  Contact_US link
+2024-02-19 10:36:20 INFO  HomePage:1017 - Successfully verified  ComeAndSeeUs_InBoutique link
+2024-02-19 10:36:20 INFO  HomePage:1024 - Successfully verified  TermsOf_Sale link
+2024-02-19 10:36:20 INFO  HomePage:1030 - Successfully verified  TermsOf link
+2024-02-19 10:36:20 INFO  HomePage:1037 - Successfully verified  Privacy_Policy link
+2024-02-19 10:36:20 INFO  HomePage:1044 - Successfully verified  Stopfake link
+2024-02-19 10:36:20 INFO  HomePage:1051 - Successfully verified  Work_WithUS link
+2024-02-19 10:36:20 INFO  TC_Scenario_01:139 - Successfully Verified Footer links 
+
+2024-02-19 10:36:22 INFO  GUIFunctions:628 - Successfully Verified social media text : STALK US ON SOCIAL MEDIA
+2024-02-19 10:36:22 INFO  HomePage:1067 - Successfully  Verified Social_Media_txt in Mycart Modal  
+
+2024-02-19 10:36:22 INFO  TC_Scenario_01:147 - Successfully Verified Footer Social Icon_txt 
+
+2024-02-19 10:36:22 INFO  HomePage:1079 - Successfully verified  Footer_Facebook Link
+2024-02-19 10:36:22 INFO  HomePage:1086 - Successfully verified  Footer_Instagram link
+2024-02-19 10:36:22 INFO  HomePage:1092 - Successfully verified  Footer_Twitter link
+2024-02-19 10:36:22 INFO  HomePage:1099 - Successfully verified  Footer_linkedin link
+2024-02-19 10:36:22 INFO  HomePage:1105 - Successfully verified  Footer_Youtube link
+2024-02-19 10:36:22 INFO  TC_Scenario_01:155 - Successfully Verified Footer Social Icons 
+
+2024-02-19 10:36:27 INFO  GUIFunctions:427 - Successfully clicked on element: Click on my account button
+2024-02-19 10:36:27 INFO  TC_Scenario_01:163 - Successfully clicked on My account Icon from Homepage
+2024-02-19 10:36:29 INFO  GUIFunctions:628 - Successfully Verified HP_MyAccountHeader_text : MY ACCOUNT
+2024-02-19 10:36:29 INFO  HomePage:1251 - Successfully verified MonCompte Text 
+
+2024-02-19 10:36:31 INFO  GUIFunctions:628 - Successfully Verified HP_MyaccountModal_Welcome_desc_text : If you have an account with us, log in using your email address.
+2024-02-19 10:36:31 INFO  HomePage:1262 - Successfully verified MyaccountModal Welcome_descText 
+
+2024-02-19 10:36:31 INFO  HomePage:475 - Successfully verified  Login Email Placeholder Text  
+
+2024-02-19 10:36:31 INFO  HomePage:489 - Successfully verified  Login Pwd Placeholder Text  
+
+2024-02-19 10:36:32 INFO  HomePage:502 - Successfully verified  MyAccountModal_RequiredText  
+
+2024-02-19 10:36:32 INFO  HomePage:517 - Successfully verified  Do you Have Account_txt  
+
+2024-02-19 10:36:32 INFO  HomePage:533 - Successfully verified Forgot your pwd link
+2024-02-19 10:36:32 INFO  HomePage:550 - Successfully verified sign in button
+2024-02-19 10:36:32 INFO  HomePage:567 - Successfully verified Create Account button
+2024-02-19 10:36:32 INFO  HomePage:584 - Successfully verified Wishlist link
+2024-02-19 10:36:32 INFO  TC_Scenario_01:181 - Successfully Verified All text ,links and buttons in My Account Modal
+2024-02-19 10:36:35 INFO  HomePage:599 - Entered Username : autostaging_uk1@yopmail.com
+2024-02-19 10:36:35 INFO  TC_Scenario_01:189 - Successfully Entered Email Address in Login field
+2024-02-19 10:36:38 INFO  HomePage:617 - Entered Password : Louboutin@2024
+2024-02-19 10:36:38 INFO  TC_Scenario_01:197 - Successfully Entered password in Login field 
+2024-02-19 10:36:45 INFO  GUIFunctions:427 - Successfully clicked on element: Click on my account button
+2024-02-19 10:36:47 INFO  TC_Scenario_01:205 - Successfully Clicked on sign in Btn in Login field
+2024-02-19 10:37:16 INFO  MyAccountPage:586 - Successfully verified all Right Side Product Sections Details in My account page
+2024-02-19 10:37:16 INFO  MyAccountPage:621 - Successfully verified all Left Side Product Sections Details in My account page
+2024-02-19 10:37:16 INFO  TC_Scenario_01:238 - Successfully Verified My account page left side link content's
+2024-02-19 10:37:17 INFO  GUIFunctions:132 - Successfully Mouse Over On Mouseover on Ladies Header Navigation
+2024-02-19 10:37:17 INFO  TC_Scenario_01:254 - Mouseover on Ladies Header navigation
+2024-02-19 10:37:31 INFO  GUIFunctions:104 - Successfully clicked on element: Click on L2 kate from sub category 
+2024-02-19 10:37:31 INFO  TC_Scenario_01:274 - Click On shoes Subcategory
+2024-02-19 10:37:36 INFO  GUIFunctions:427 - Successfully clicked on element: Click on Refine Filter button
+2024-02-19 10:37:36 INFO  ProductListingPage:145 - Successfully  Verified Shop by text  
+
+2024-02-19 10:37:36 INFO  TC_Scenario_01:285 - Clicked On Filter Button and verified shop by text
+2024-02-19 10:37:41 INFO  GUIFunctions:427 - Successfully clicked on element: Click on BLACK Radio Button
+2024-02-19 10:37:43 INFO  TC_Scenario_01:292 - Select color from filter
+2024-02-19 10:37:53 INFO  GUIFunctions:427 - Successfully clicked on element: Click on Product Image and Navigated to Product Details Page
+2024-02-19 10:37:57 INFO  GUIFunctions:628 - Successfully Verified Product Name in PDP & Product Name is : Sporty Kate
+2024-02-19 10:37:59 INFO  GUIFunctions:628 - Successfully Verified Product Price in PDP & Product Price is : £690.00
+2024-02-19 10:38:01 INFO  GUIFunctions:628 - Successfully Verified Product Brand Name in PDP & Product brand Name is : 85 mm Pumps - Nappa leather - Black
+2024-02-19 10:38:01 INFO  ProductDetailsPage:581 - Successfully verified add to cart CTA
+2024-02-19 10:38:23 INFO  ProductDetailsPage:352 - Successfully Verified Color Swatches in Product details page
+2024-02-19 10:38:23 INFO  ProductDetailsPage:113 - Successfully Verified Size Guide in PDP
+2024-02-19 10:38:28 INFO  GUIFunctions:427 - Successfully clicked on element: Click on sizeguide button

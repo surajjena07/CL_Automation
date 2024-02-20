@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><suite name="CL-Automation ON:SCENARIOS" parallel="tests" thread-count="10">
+  <listeners class-name="org.uncommons.reportng.HTMLReporter"/>
+  <test name="TC_Sanity_01_CH_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC_Sanity_01"/>
+    <parameter name="LOCALE" value="CH_FR"/>
+    <parameter name="DS_CONFIG" value="USERINFO_DS-V11,PAYMENT_DS-V1,BO_DS-V11,WMS_DS-V11"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Sanity_01"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://intg-eu-12.christianlouboutin.com/ch_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="76"/>
+    <parameter name="TESTCASENAME" value="TC_Sanity_01_CH_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="IntegrationEnv"/>
+    <classes>
+      <class name="in.valtech.cl.scenarios.TC_Sanity_01"/>
+    </classes>
+  </test>
+</suite>

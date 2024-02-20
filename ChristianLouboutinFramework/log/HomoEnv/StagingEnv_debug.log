@@ -1,0 +1,195 @@
+2023-01-11 14:47:47 INFO  BaseTest:77 - *****************************TC_Scenario_06
+2023-01-11 14:47:47 INFO  BaseTest:78 - Test case->TC_Scenario_06
+2023-01-11 14:47:47 INFO  BaseTest:82 - Locale->FR_FR
+2023-01-11 14:47:47 INFO  BaseTest:86 - browserStack->NO
+2023-01-11 14:47:47 INFO  BaseTest:101 - Browser Version->107
+2023-01-11 14:47:47 INFO  BaseTest:106 - Driver->CHROME
+2023-01-11 14:47:47 INFO  BaseTest:110 - Test dataSet_Config->USERINFO_DS-V6,ADDRESS_DS-V4,BILLINGADDRESS_DS-V1,PAYMENT_DS-V3,BO_DS-V6,WMS_DS-V6,ADYEN_DS-V1
+2023-01-11 14:48:07 INFO  BaseTest:135 - BaseURL->https://staging-eu.christianlouboutin.com/fr_fr/
+2023-01-11 14:48:07 INFO  BaseTest:139 - Breakpoint->L
+2023-01-11 14:48:07 INFO  BaseTest:140 - *****************************
+2023-01-11 14:48:07 INFO  BaseTest:160 - Before InitializeDriver
+2023-01-11 14:48:07 INFO  CustomFun:1330 - 11/01/2023
+2023-01-11 14:48:07 INFO  CustomFun:1341 - --CI Value--false 
+2023-01-11 14:48:11 INFO  BaseTest:162 - After InitializeDriver
+2023-01-11 14:48:11 INFO  BaseTest:198 - Window size ---(1696, 1026)
+2023-01-11 14:48:34 INFO  GUIFunctions:428 - Successfully clicked on element: Click on AcceptAll_Cookies button
+2023-01-11 14:48:47 INFO  BackOfficePage:271 - Entered Username Successfully: test_aut_6
+2023-01-11 14:48:51 INFO  BackOfficePage:283 - Entered Password Successfully: Louboutin2022!
+2023-01-11 14:49:13 INFO  GUIFunctions:105 - Successfully clicked on element: Click on Sign In button
+2023-01-11 14:49:25 INFO  BackOfficePage:308 - Verified Dashboard Header and Successfully navigated to Dashboard page
+2023-01-11 14:49:35 INFO  GUIFunctions:105 - Successfully clicked on element: Click on Customers Icon
+2023-01-11 14:49:53 INFO  GUIFunctions:105 - Successfully clicked on element: Click on All Customers text from Customers Icon
+2023-01-11 14:50:03 INFO  BackOfficePage:1482 - Verified Customers header text and Successfully navigated to Customers details page
+2023-01-11 14:50:13 INFO  GUIFunctions:428 - Successfully clicked on element: Click on Clear All button
+2023-01-11 14:50:24 INFO  GUIFunctions:428 - Successfully clicked on element: Click on Search Icon
+2023-01-11 14:50:34 INFO  GUIFunctions:105 - Successfully clicked on element: Click on Customer Checkbox
+2023-01-11 14:50:44 INFO  GUIFunctions:105 - Successfully clicked on element: Click on Actions dropdown
+2023-01-11 14:50:54 INFO  GUIFunctions:105 - Successfully clicked on element: Click on Delete option From Actions Dropdown
+2023-01-11 14:51:09 INFO  GUIFunctions:105 - Successfully clicked on element: Click on OK button
+2023-01-11 14:51:56 INFO  GUIFunctions:428 - Successfully clicked on element: Click on my account button
+2023-01-11 14:52:09 INFO  GUIFunctions:428 - Successfully clicked on element: Create_Account_btn
+2023-01-11 14:52:14 INFO  CustomFun:832 - Verified Default DropDown option: M.
+2023-01-11 14:52:14 INFO  CustomFun:833 - Verified DropDown Value: M.
+2023-01-11 14:52:20 INFO  GUIFunctions:290 - Successfully selected value from Prefix DropDown
+2023-01-11 14:52:32 INFO  NewCustomerAccountPage:111 - Entered Last Name successfully in Last Name Field: Testing
+2023-01-11 14:52:39 INFO  NewCustomerAccountPage:98 - Entered First Name successfully in First Name Field: Automation
+2023-01-11 14:52:43 INFO  NewCustomerAccountPage:124 - Entered Username Successfully: autotest.6@yopmail.com
+2023-01-11 14:52:48 INFO  NewCustomerAccountPage:137 - Entered Password Successfully: Louboutin@2022
+2023-01-11 14:52:52 INFO  NewCustomerAccountPage:150 - Entered Confirm Password Successfully: Louboutin@2022
+2023-01-11 14:53:02 INFO  GUIFunctions:105 - Successfully clicked on element: Click on NewsLetter Checkbox
+2023-01-11 14:53:12 INFO  GUIFunctions:105 - Successfully clicked on element: Click on Cgv Checkbox
+2023-01-11 14:53:26 INFO  GUIFunctions:627 - Successfully Verified Register Success Message : 
+2023-01-11 14:53:31 INFO  MyAccountPage:110 - Successfully verified UserName text
+2023-01-11 14:53:31 INFO  MyAccountPage:95 - Successfully verified My Account Header text in My Account Page
+2023-01-11 14:53:31 INFO  MyAccountPage:151 - Successfully verified My Orders Link
+2023-01-11 14:53:32 INFO  MyAccountPage:175 - Successfully verified My Returns Link
+2023-01-11 14:53:32 INFO  MyAccountPage:203 - Successfully verified Wishlist Link in Wishlist page
+2023-01-11 14:53:32 INFO  MyAccountPage:478 - Successfully My Favorite Address Header is verified in My Account Page
+2023-01-11 14:53:34 INFO  MyAccountPage:494 - Successfully NewsLetter Header is verified in My Account Page
+2023-01-11 14:53:34 INFO  HomePage:951 - Successfully  Verified HP_VisitABoutique_txt in Mycart Modal  
+
+2023-01-11 14:53:34 INFO  HomePage:957 - Successfully  Verified HP_SOS_txt in Mycart Modal  
+
+2023-01-11 14:53:34 INFO  HomePage:963 - Successfully  Verified HP_Get_In_touch_txt in Mycart Modal  
+
+2023-01-11 14:53:34 INFO  HomePage:968 - Successfully  Verified HP_Legal_blah_blah_txt in Mycart Modal  
+
+2023-01-11 14:53:34 INFO  TC_Scenario_06:261 - Successfully Verified My account page content's
+2023-01-11 14:53:34 INFO  GUIFunctions:133 - Successfully Mouse Over On Any L1 Category
+2023-01-11 14:53:54 INFO  GUIFunctions:428 - Successfully clicked on element: Click on L3 Ladies-Kate Category
+2023-01-11 14:53:54 INFO  GUIFunctions:648 - Successfully scroll down till scroll till Product Image
+2023-01-11 14:54:15 INFO  GUIFunctions:428 - Successfully clicked on element: Click on Product Image
+2023-01-11 14:54:17 INFO  GUIFunctions:627 - Successfully Verified Product Name in PDP & Product Name is : Kate
+2023-01-11 14:54:19 INFO  GUIFunctions:627 - Successfully Verified Product Price in PDP & Product Price is : 595,00 €
+2023-01-11 14:54:21 INFO  GUIFunctions:627 - Successfully Verified Product Brand Name in PDP & Product brand Name is : Escarpins 100 mm - Cuir nappa - Noir
+2023-01-11 14:54:43 INFO  ProductDetailsPage:312 - Successfully Verified Color Swatches in Product details page
+2023-01-11 14:54:43 INFO  ProductDetailsPage:559 - Successfully verified add to cart CTA
+2023-01-11 14:54:53 INFO  GUIFunctions:105 - Successfully clicked on element: Click on check store availability option
+2023-01-11 14:55:04 INFO  GUIFunctions:105 - Successfully clicked on element: Click on close icon to close the availability in boutique overlay
+2023-01-11 14:55:04 INFO  ProductDetailsPage:539 - Successfully verified  Contact Us link in Product Details Page
+2023-01-11 14:55:04 INFO  ProductDetailsPage:112 - Successfully Verified Size Guide in PDP
+2023-01-11 14:55:14 INFO  GUIFunctions:428 - Successfully clicked on element: Click on sizeguide button
+2023-01-11 14:55:16 INFO  ProductDetailsPage:117 - Successfully Verified Size Guide Table in PDP
+2023-01-11 14:55:26 INFO  GUIFunctions:428 - Successfully clicked on element: Click on close icon to close the size guide overlay
+2023-01-11 14:55:37 INFO  GUIFunctions:428 - Successfully clicked on element: Click on Size Button 
+2023-01-11 14:55:48 INFO  GUIFunctions:105 - Successfully clicked on element: Selected Size
+2023-01-11 14:55:59 INFO  GUIFunctions:105 - Successfully clicked on element: Click on product information option
+2023-01-11 14:56:00 INFO  ProductDetailsPage:241 - Verified content displayed as expected under Product Information
+2023-01-11 14:56:10 INFO  GUIFunctions:428 - Successfully clicked on element: Click on Product Care option
+2023-01-11 14:56:10 INFO  ProductDetailsPage:287 - Verified content displayed as expected under Product Care
+2023-01-11 14:56:21 INFO  GUIFunctions:428 - Successfully clicked on element: Click on Shipping option
+2023-01-11 14:56:41 INFO  ProductDetailsPage:299 - Verified content displayed as expected under Shipping
+2023-01-11 14:56:41 INFO  ProductDetailsPage:349 - Product Image and Thumbnail Image are displaying in Product details page
+2023-01-11 14:56:41 INFO  GUIFunctions:648 - Successfully scroll down till Add To Cart button
+2023-01-11 14:56:51 INFO  GUIFunctions:428 - Successfully clicked on element: Click on Add To Cart button
+2023-01-11 14:56:53 INFO  GUIFunctions:627 - Successfully Verified Amazing text in Confirmation Overlay : EXCELLENT CHOIX !
+2023-01-11 14:56:55 INFO  GUIFunctions:627 - Successfully Verified A product has been added to text in Confirmation Overlay : Un produit a été ajouté à
+2023-01-11 14:56:57 INFO  GUIFunctions:627 - Successfully Verified Product Price text in Confirmation Overlay : 595,00 €
+2023-01-11 14:57:14 INFO  GUIFunctions:428 - Successfully clicked on element: Click on your cart link in mini cart 
+2023-01-11 14:57:14 INFO  CartPage:295 - Successfully verified Product image
+2023-01-11 14:57:16 INFO  GUIFunctions:627 - Successfully Verified Product name text in Main Cart Page : Kate
+2023-01-11 14:57:16 INFO  CartPage:302 - Successfully Verified Product name text 
+
+2023-01-11 14:57:18 INFO  GUIFunctions:627 - Successfully Verified product description text in Main Cart Page : Escarpins 100 mm - Cuir nappa - Noir
+2023-01-11 14:57:18 INFO  CartPage:308 - Successfully Verified product description text 
+
+2023-01-11 14:57:20 INFO  GUIFunctions:627 - Successfully Verified Product total in Main Cart Page : 595,00 €
+2023-01-11 14:57:20 INFO  CartPage:314 - Successfully Verified product price text 
+
+2023-01-11 14:57:22 INFO  GUIFunctions:627 - Successfully Verified Product color in Main Cart Page : Noir
+2023-01-11 14:57:22 INFO  CartPage:320 - Successfully Verified product color text 
+
+2023-01-11 14:57:24 INFO  GUIFunctions:627 - Successfully Verified Product size in Main Cart Page : Taille: 34
+2023-01-11 14:57:24 INFO  CartPage:326 - Successfully Verified product size val 
+
+2023-01-11 14:57:26 INFO  CartPage:272 - Successfully  Verified Your basket text  
+
+2023-01-11 14:57:26 INFO  CartPage:278 - Successfully  Verified  This Looks Great text  
+
+2023-01-11 14:57:26 INFO  CartPage:284 - Successfully  Verified FreeReturns text  
+
+2023-01-11 14:57:29 INFO  GUIFunctions:627 - Successfully Verified verified remove link in Main cart Page : Supprimer
+Kate, Noir, Taille 34
+2023-01-11 14:57:31 INFO  GUIFunctions:627 - Successfully Verified verified wishlist link in Main cart Page : 
+2023-01-11 14:57:33 INFO  GUIFunctions:627 - Successfully Verified Product sub total in Main Cart Page : 595,00 €
+2023-01-11 14:57:33 INFO  CartPage:408 - Successfully Verified product cart subtotal val in main cart page
+2023-01-11 14:57:35 INFO  GUIFunctions:627 - Successfully Verified Product total in Main Cart Page : 595,00 €
+2023-01-11 14:57:35 INFO  CartPage:415 - Successfully Verified product cart total val in Main Cart Page
+2023-01-11 14:57:35 INFO  CartPage:581 - Successfully verified Total And Delivery Summary
+2023-01-11 14:57:37 INFO  GUIFunctions:627 - Successfully Verified Product Quantity in Main cart  Page : 
+2023-01-11 14:57:37 INFO  CartPage:595 - Successfully verified Fixed legal text
+2023-01-11 14:57:37 INFO  CartPage:567 - Successfully verified Payment NonClickable_section Icons
+2023-01-11 14:57:39 INFO  GUIFunctions:627 - Successfully Verified verified FAQ section in Main cart Page : Vous avez des questions ?
+Trouvez les réponses dans notre FAQ.
+Comment essayer mes souliers ?
+Les retours sont-ils gratuits ?
+Puis-je échanger le modèle et/ou la pointure ?
+Quels sont les moyens de paiement acceptés ?
+Vos données sont collectées par Christian Louboutin Suisse SA aux seules fins de vous fournir un service de qualité tel qu’attendu dans le cadre de lacréation d’un compte sur notre site. Vous pouvez à tout moment exercer vos droits et retirer votre consentement en envoyant un e-mail à : privacy.europe@christianlouboutin.com. Veuillez consulter notre Politique de Confidentialité pour plus d'informations.
+Conditions Générales d'Utilisation Politique de confidentialité
+2023-01-11 14:57:49 INFO  GUIFunctions:428 - Successfully clicked on element: Click on quantity Increment(-) icon of main cart 
+2023-01-11 14:58:02 INFO  GUIFunctions:428 - Successfully clicked on element: Click on Proceed To CheckOut in main cart
+2023-01-11 14:58:02 INFO  CheckoutPage:72 - Successfully verified Gift Header text
+2023-01-11 14:58:02 INFO  CustomFun:1270 - No Warn Img is selected
+2023-01-11 14:58:07 INFO  CheckoutPage:109 - Entered message successfully in your message field
+2023-01-11 14:58:17 INFO  GUIFunctions:428 - Successfully clicked on element: Click on Update button
+2023-01-11 14:58:17 INFO  GUIFunctions:648 - Successfully scroll down till Address Name Field
+2023-01-11 14:58:17 INFO  ShippingAddressPage:214 - Successfully verified shipping address Header text
+2023-01-11 14:58:19 INFO  ShippingAddressPage:338 - Successfully Entered Address Name : Shipping Address
+2023-01-11 14:58:19 INFO  CustomFun:832 - Verified Default DropDown option: M.
+2023-01-11 14:58:19 INFO  CustomFun:833 - Verified DropDown Value: Mr
+2023-01-11 14:58:21 INFO  ShippingAddressPage:364 - Entered First Name successfully in First Name field
+2023-01-11 14:58:23 INFO  ShippingAddressPage:378 - Entered Last Name successfully in Last Name field
+2023-01-11 14:58:25 INFO  GUIFunctions:199 - Successfully mouse over and clicked on: 11 rue de Penthièvre
+2023-01-11 14:58:29 INFO  ShippingAddressPage:394 - Entered Address Details successfully in Address field
+2023-01-11 14:58:33 INFO  ShippingAddressPage:408 - Entered PostCode successfully in PostCode field
+2023-01-11 14:58:37 INFO  ShippingAddressPage:422 - Entered City successfully in City field
+2023-01-11 14:58:37 INFO  CustomFun:832 - Verified Default DropDown option: France
+2023-01-11 14:58:37 INFO  CustomFun:833 - Verified DropDown Value: France
+2023-01-11 14:58:44 INFO  ShippingAddressPage:449 - Entered phone number successfully in phone number field
+2023-01-11 14:58:46 INFO  GUIFunctions:627 - Successfully Verified verified second shipping method : UPS Express Saver : Livraison le lendemain (Lun-Ven).
+2023-01-11 14:58:56 INFO  GUIFunctions:428 - Successfully clicked on element: Click on second shipping method
+2023-01-11 14:59:06 INFO  GUIFunctions:428 - Successfully clicked on element: Click on Continue to payment button
+2023-01-11 14:59:11 INFO  GUIFunctions:648 - Successfully scroll down till Payment Options
+2023-01-11 14:59:13 INFO  PaymentPage:104 - Payment options are displayed
+2023-01-11 14:59:23 INFO  GUIFunctions:428 - Successfully clicked on element: Click on Credit card Radio Button
+2023-01-11 14:59:38 INFO  GUIFunctions:428 - Successfully clicked on element: Unchecked SAAndBA Both Same Checkbox For Credit
+2023-01-11 14:59:51 INFO  ShippingAddressPage:86 - Entered Address Name successfully in Address Name field
+2023-01-11 14:59:51 INFO  CustomFun:832 - Verified Default DropDown option: M.
+2023-01-11 14:59:51 INFO  CustomFun:833 - Verified DropDown Value: Mr
+2023-01-11 14:59:58 INFO  ShippingAddressPage:108 - Entered First Name successfully in First Name field
+2023-01-11 15:00:00 INFO  ShippingAddressPage:120 - Entered Last Name successfully in Last Name field
+2023-01-11 15:00:07 INFO  ShippingAddressPage:155 - Entered Address Details successfully in Address field
+2023-01-11 15:00:15 INFO  ShippingAddressPage:166 - Entered PostCode successfully in PostCode field
+2023-01-11 15:00:22 INFO  ShippingAddressPage:177 - Entered City successfully in City field
+2023-01-11 15:00:22 INFO  CustomFun:832 - Verified Default DropDown option: 
+2023-01-11 15:00:22 INFO  CustomFun:833 - Verified DropDown Value: France
+2023-01-11 15:00:31 INFO  ShippingAddressPage:198 - Entered phone number successfully in phone number field
+2023-01-11 15:00:41 INFO  GUIFunctions:428 - Successfully clicked on element: click on update btn
+2023-01-11 15:00:43 INFO  GUIFunctions:648 - Successfully scroll down till Payment Options
+2023-01-11 15:00:46 INFO  PaymentPage:233 - Entered Credit card number : 3451 7792 5488 348
+2023-01-11 15:00:50 INFO  PaymentPage:267 - Entered Expiry date : 03 30
+2023-01-11 15:00:52 INFO  PaymentPage:301 - Entered CCV number is : 1234
+2023-01-11 15:00:52 INFO  PaymentPage:327 - Entered Card holder name is : Automation User
+2023-01-11 15:01:05 INFO  GUIFunctions:428 - Successfully clicked on element: Click on terms of use option
+2023-01-11 15:01:17 INFO  GUIFunctions:428 - Successfully clicked on element: Click on return policy option
+2023-01-11 15:01:17 INFO  PaymentPage:597 - Selected Agreement checkboxes
+2023-01-11 15:01:27 INFO  GUIFunctions:428 - Successfully clicked on element: Click on Proceed button to make the payment 
+2023-01-11 15:01:34 INFO  PaymentPage:647 - Entered 3DS Username : user
+2023-01-11 15:01:38 INFO  PaymentPage:674 - Entered 3DS Password : password
+2023-01-11 15:01:56 INFO  GUIFunctions:428 - Successfully clicked on element: Click on Submit button to make the payment
+2023-01-11 15:02:21 INFO  GUIFunctions:105 - Successfully clicked on element: Click on Sales Icon
+2023-01-11 15:02:38 INFO  GUIFunctions:105 - Successfully clicked on element: Click on orders text from Sales Icon
+2023-01-11 15:03:04 INFO  GUIFunctions:738 - Successfully Verified Order ID & Order Status In BO: 200205548-Cancel
+2023-01-11 15:04:33 INFO  GUIFunctions:738 - Successfully Verified Order ID & Order Status In BO: 200205548-Cancel
+2023-01-11 15:04:34 INFO  TC_Scenario_06:765 - Successfully Verified Order Status in Magento After Placing the order with wrong credit card details: Cancel
+2023-01-11 15:04:59 INFO  GUIFunctions:105 - Successfully clicked on element: Click on Adyen login link
+2023-01-11 15:05:12 INFO  GUIFunctions:105 - Successfully clicked on element: Click on Test Tab
+2023-01-11 15:05:25 INFO  GUIFunctions:105 - Successfully clicked on element: Click on Next button
+2023-01-11 15:05:40 INFO  GUIFunctions:105 - Successfully clicked on element: Click on submit button
+2023-01-11 15:05:55 INFO  GUIFunctions:428 - Successfully clicked on element: Click on Adyen Transaction tab
+2023-01-11 15:06:09 INFO  GUIFunctions:105 - Successfully clicked on element: Click on Adyen Transaction payment tab
+2023-01-11 15:06:24 INFO  GUIFunctions:105 - Successfully clicked on element: Click on Adyen click on filter remove icon 
+2023-01-11 15:06:31 INFO  GUIFunctions:959 - Successfully Verified Order ID & Order Status In Adyen: 200205548-Refused
+2023-01-11 15:06:31 INFO  TC_Scenario_06:811 - Successfully Verified Order Status in Adyen Page After entering wrong credit card details: Refused

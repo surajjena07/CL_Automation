@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suite name="CL-Automation ON:SCENARIOS" parallel="tests" thread-count="10">
+  <listeners class-name="src.in.valtech.util.ExtentTestNGIReporterListener"/>
+  <test name="TC-07_FR_FR_CHROME_L">
+    <parameter name="TESTCASE" value="TC-07"/>
+    <parameter name="LOCALE" value="FR_FR"/>
+    <parameter name="DS_CONFIG" value="USERINFO_DS-V7,ADDRESS_DS-V4,ADYEN_DS-V1,PAYPALPAYMENT_DS-V1,BO_DS-V7,WMS_DS-V6,YAHOO_DS-V7"/>
+    <parameter name="APPLICATION" value="FRONT"/>
+    <parameter name="ACTUAL_TC" value="TC_Scenario_07"/>
+    <parameter name="BREAKPOINT" value="L"/>
+    <parameter name="URL" value="https://homologation-eu-1.christianlouboutin.com/fr_fr/"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="BROWSERSTACK" value="NO"/>
+    <parameter name="BROWSER_DEVICE_VERSION" value="107"/>
+    <parameter name="TESTCASENAME" value="TC-07_FR_FR_CHROME_L"/>
+    <parameter name="ENVIRONMENT" value="HomoEnv2"/>
+    <classes>
+      <class name="src.in.valtech.cl.scenarios.TC_Scenario_07"/>
+    </classes>
+  </test>
+</suite>

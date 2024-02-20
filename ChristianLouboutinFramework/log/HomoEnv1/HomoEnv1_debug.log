@@ -1,0 +1,28 @@
+2024-02-20 17:37:11 INFO  BaseTest:140 - *****************************TC_Scenario4_Phase2
+2024-02-20 17:37:11 INFO  BaseTest:141 - Test case->TC_Scenario4_Phase2
+2024-02-20 17:37:11 INFO  BaseTest:145 - Locale->CH_FR
+2024-02-20 17:37:11 INFO  BaseTest:140 - *****************************TC_Scenario3_Phase2
+2024-02-20 17:37:11 INFO  BaseTest:141 - Test case->TC_Scenario3_Phase2
+2024-02-20 17:37:11 INFO  BaseTest:145 - Locale->CH_FR
+2024-02-20 17:37:11 INFO  BaseTest:149 - browserStack->NO
+2024-02-20 17:37:11 INFO  BaseTest:140 - *****************************TC_Scenario2_Phase2
+2024-02-20 17:37:11 INFO  BaseTest:140 - *****************************TC_Scenario1_Phase2
+2024-02-20 17:37:11 INFO  BaseTest:141 - Test case->TC_Scenario2_Phase2
+2024-02-20 17:37:11 INFO  BaseTest:164 - Browser Version->76
+2024-02-20 17:37:11 INFO  BaseTest:149 - browserStack->NO
+2024-02-20 17:37:11 INFO  BaseTest:164 - Browser Version->76
+2024-02-20 17:37:11 INFO  BaseTest:169 - Driver->CHROME
+2024-02-20 17:37:11 INFO  BaseTest:169 - Driver->CHROME
+2024-02-20 17:37:11 INFO  BaseTest:145 - Locale->CH_FR
+2024-02-20 17:37:11 INFO  BaseTest:141 - Test case->TC_Scenario1_Phase2
+2024-02-20 17:37:11 INFO  BaseTest:149 - browserStack->NO
+2024-02-20 17:37:11 INFO  BaseTest:164 - Browser Version->76
+2024-02-20 17:37:11 INFO  BaseTest:169 - Driver->CHROME
+2024-02-20 17:37:11 INFO  BaseTest:173 - Test dataSet_Config->PIM_DS-V1,BO_DS-V12,WMS_DS-V2
+2024-02-20 17:37:11 INFO  BaseTest:173 - Test dataSet_Config->PIM_DS-V1,BO_DS-V13,WMS_DS-V3
+2024-02-20 17:37:11 INFO  BaseTest:173 - Test dataSet_Config->PIM_DS-V1,BO_DS-V14,WMS_DS-V4
+2024-02-20 17:37:11 INFO  BaseTest:145 - Locale->CH_FR
+2024-02-20 17:37:11 INFO  BaseTest:149 - browserStack->NO
+2024-02-20 17:37:11 INFO  BaseTest:164 - Browser Version->76
+2024-02-20 17:37:11 INFO  BaseTest:169 - Driver->CHROME
+2024-02-20 17:37:11 INFO  BaseTest:173 - Test dataSet_Config->PIM_DS-V1,BO_DS-V11,WMS_DS-V1

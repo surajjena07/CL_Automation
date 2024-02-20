@@ -1,0 +1,15 @@
+2024-01-19 17:50:22 INFO  BaseTest:120 - *****************************TC_Scenario_07
+2024-01-19 17:50:22 INFO  BaseTest:121 - Test case->TC_Scenario_07
+2024-01-19 17:50:22 INFO  BaseTest:125 - Locale->FR_FR
+2024-01-19 17:50:22 INFO  BaseTest:129 - browserStack->NO
+2024-01-19 17:50:22 INFO  BaseTest:144 - Browser Version->107
+2024-01-19 17:50:22 INFO  BaseTest:149 - Driver->CHROME
+2024-01-19 17:50:22 INFO  BaseTest:153 - Test dataSet_Config->USERINFO_DS-V7,ADDRESS_DS-V4,ADYEN_DS-V1,PAYPALPAYMENT_DS-V1,BO_DS-V7,WMS_DS-V6,YAHOO_DS-V7
+2024-01-19 17:50:35 INFO  BaseTest:195 - BaseURL->https://homologation-eu-1.christianlouboutin.com/fr_fr/
+2024-01-19 17:50:36 INFO  BaseTest:199 - Breakpoint->L
+2024-01-19 17:50:36 INFO  BaseTest:200 - *****************************
+2024-01-19 17:50:36 INFO  BaseTest:223 - Before InitializeDriver
+2024-01-19 17:50:36 INFO  CustomFun:1270 - 19/01/2024
+2024-01-19 17:50:36 INFO  CustomFun:1281 - --CI Value--false 
+2024-01-19 17:50:38 INFO  BaseTest:225 - After InitializeDriver
+2024-01-19 17:50:39 INFO  BaseTest:261 - Window size ---(1552, 936)

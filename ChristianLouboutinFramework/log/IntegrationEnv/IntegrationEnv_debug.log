@@ -1,0 +1,7 @@
+2023-03-02 17:24:02 INFO  BaseTest:77 - *****************************TC_Sanity_01
+2023-03-02 17:24:02 INFO  BaseTest:78 - Test case->TC_Sanity_01
+2023-03-02 17:24:02 INFO  BaseTest:82 - Locale->CH_FR
+2023-03-02 17:24:02 INFO  BaseTest:86 - browserStack->NO
+2023-03-02 17:24:02 INFO  BaseTest:101 - Browser Version->76
+2023-03-02 17:24:02 INFO  BaseTest:106 - Driver->CHROME
+2023-03-02 17:24:02 INFO  BaseTest:110 - Test dataSet_Config->USERINFO_DS-V11,PAYMENT_DS-V1,BO_DS-V11,WMS_DS-V11
